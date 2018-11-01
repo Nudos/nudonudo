@@ -1,0 +1,165 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nudonudo.es" resolutions="1x,2x" timestamp="1541082787568">
+  <folder name="css">
+    <file name="site_global.css" crc="377416528"/>
+    <file name="index.css" crc="181872409" ref="index"/>
+    <file name="nomq_index.css" crc="40420827" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="scaner_mostrad_01_34_20180911_124158-1393x426.jpg" crc="4236125336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1393x426_2x.jpg" crc="3814731793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3375x497.jpg" crc="4260501702" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3375x497_2x.jpg" crc="4050064777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3576x403.jpg" crc="13727646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3576x403_2x.jpg" crc="3896922206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena372x427.jpg" crc="236573473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena372x427_2x.jpg" crc="4053732995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2338x404.jpg" crc="3764614466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2338x404_2x.jpg" crc="381499686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3.jpg" crc="4154524037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3_2x.jpg" crc="3896922206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3583x408.jpg" crc="4280068747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3583x408_2x.jpg" crc="3896922206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1.jpg" crc="495840329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1_2x.jpg" crc="3814731793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3512x358.jpg" crc="3830681244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3512x358_2x.jpg" crc="3896922206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena624x718.jpg" crc="293280136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena624x718_2x.jpg" crc="3968995797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2507x606.jpg" crc="308506042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2507x606_2x.jpg" crc="4107004437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3507x672.jpg" crc="4063337141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3507x672_2x.jpg" crc="4144393339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1512x555.jpg" crc="3830348090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1512x555_2x.jpg" crc="3814731793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena.jpg" crc="178246875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena_2x.jpg" crc="3818602494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2.jpg" crc="4242837961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2_2x.jpg" crc="3771756001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3.jpg" crc="4017456825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3_2x.jpg" crc="3843665102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1432x467.jpg" crc="3821636735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-1432x467_2x.jpg" crc="3814731793" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3430x301.jpg" crc="3900025474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scaner_mostrad_01_34_20180911_124158-3430x301_2x.jpg" crc="4271595013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena528x608.jpg" crc="404629738" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena528x608_2x.jpg" crc="53746336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2430x514.jpg" crc="3791500309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanzine elena2430x514_2x.jpg" crc="24510432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3431x570.jpg" crc="4284313562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5501-a1557p3431x570_2x.jpg" crc="240982287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="64958270" seo="true" mt="1541082716039" redirect="true"/>
+</manifest>
